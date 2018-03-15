@@ -1,13 +1,13 @@
 {
-    "name": "StartupEngine",
-    "description": "A beautiful, open-source, free CMS for startups.",
+    "name": "Opus",
+    "description": "A wiki platform for teams.",
     "keywords": [
         "Wiki",
         "Laravel",
         "Heroku"
     ],
     "website": "https://startupengine.herokuapp.com",
-    "repository": "https://github.com/luckyrabbitllc/startupengine",
+    "repository": "https://github.com/luckyrabbitllc/opusheroku",
     "logo": "https://raw.githubusercontent.com/luckyrabbitllc/startupengine/master/storage/docs/images/logo.png",
     "success_url": "/",
     "scripts": {
