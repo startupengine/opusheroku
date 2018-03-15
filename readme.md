@@ -121,5 +121,5 @@ The license holder is allowed to use the software for free, as long as they don'
 
 Click the button below to deploy a new instance of StartupEngine to Heroku instantly.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luckyrabbitllc/Opus-Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luckyrabbitllc/OpusHeroku)
 
