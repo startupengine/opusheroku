@@ -1,4 +1,28 @@
-generation for the ease of sharing.
+<p align="center">
+<a href="http://i.imgur.com/Oxh9Mhg.png"><img src="http://i.imgur.com/AfFX7vQ.png"/></a>
+</p>
+
+#
+
+<p align="center">
+Opensource knowledge base application for Teams.
+</p>
+
+<p align="center">
+<a href="https://travis-ci.org/zeeshanu/opus"><img src="https://travis-ci.org/zeeshanu/opus.svg?branch=master"/></a>
+<a href="https://github.com/zeeshanu/opus"><img src="https://img.shields.io/github/release/zeeshanu/opus.svg" /></a>
+</p>
+
+## Introduction
+
+Opus is a place for your team to document who you are, what you do and how you do it. It helps you create and maintain a knowledge base for your teams.
+
+![Opus](http://i.imgur.com/WZvXEXY.png)
+
+## Motivation
+As companies grow, it becomes difficult to manage and communicate the knowledge across different departments, Opus acts as a single source of truth; a go-to place for the employees to get knowledge. It gives enterprises the power to create anything and everything; from meeting notes, project plans, product requirements, technical documentations, orchestrate processes, work-flows and more. 
+
+There are spaces for every team, department or major project. Then employees can create, organize and share knowledge inside their relevant teams and keep work organized. There is a structured hierarchy and powerful search engine to find what you need quickly and easily. Apart from that, templates help creating documents without any hassle and there is PDF and Office Docs generation for the ease of sharing.
 
 ## Features
 
